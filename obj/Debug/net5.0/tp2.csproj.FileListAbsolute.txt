@@ -1,0 +1,16 @@
+M:\algo\tp2\tp2\bin\Debug\net5.0\tp2.exe
+M:\algo\tp2\tp2\bin\Debug\net5.0\tp2.deps.json
+M:\algo\tp2\tp2\bin\Debug\net5.0\tp2.runtimeconfig.json
+M:\algo\tp2\tp2\bin\Debug\net5.0\tp2.runtimeconfig.dev.json
+M:\algo\tp2\tp2\bin\Debug\net5.0\tp2.dll
+M:\algo\tp2\tp2\bin\Debug\net5.0\ref\tp2.dll
+M:\algo\tp2\tp2\bin\Debug\net5.0\tp2.pdb
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.csproj.AssemblyReference.cache
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.GeneratedMSBuildEditorConfig.editorconfig
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.AssemblyInfoInputs.cache
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.AssemblyInfo.cs
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.csproj.CoreCompileInputs.cache
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.dll
+M:\algo\tp2\tp2\obj\Debug\net5.0\ref\tp2.dll
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.pdb
+M:\algo\tp2\tp2\obj\Debug\net5.0\tp2.genruntimeconfig.cache
